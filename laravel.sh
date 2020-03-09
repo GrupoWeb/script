@@ -1,3 +1,4 @@
+cd ..
 git clone https://github.com/GrupoWeb/karrillo
 cd karrillo
 cd laradock
