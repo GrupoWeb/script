@@ -1,4 +1,3 @@
-cd karrillo
 cd laradock
 cd env.example .env
 sudo docker-compose up -d nginx
