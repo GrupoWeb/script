@@ -1,5 +1,5 @@
 cd laradock
-cp env.example .env
+cp env-example .env
 sudo docker-compose up -d nginx
 sudo docker-compose exec workspace bash
 composer install
